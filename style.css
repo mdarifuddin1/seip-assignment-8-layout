@@ -1,0 +1,39 @@
+
+[class*="col-"]{
+    border: 1px solid;
+    float: left;
+}
+
+.h-20{height: 20px !important; }
+.h-50{height: 50px !important;}
+.h-100{height: 100px !important ;}
+.h-120{height: 120px !important;}
+.h-150{height: 150px !important;}
+.h-200{height: 200px !important;}
+.h-250{height: 250px !important;}
+.h-300{height: 300px !important;}
+.h-350{height: 350px !important;}
+.h-400{height: 400px !important;}
+.h-450{height: 450px !important;}
+.h-500{height: 500px !important;}
+.h-520{height: 520px !important;}
+.h-800{height: 800px !important;}
+.h-30{height: 30px !important;}
+.h-40{height: 40px !important;}
+.h-75{height: 75px !important;}
+
+nav{
+    text-align: center;
+}
+.my-navbar-nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    margin: -10px;
+    
+}
+
+.my-navbar-nav a{
+   
+    text-decoration: none;
+}
